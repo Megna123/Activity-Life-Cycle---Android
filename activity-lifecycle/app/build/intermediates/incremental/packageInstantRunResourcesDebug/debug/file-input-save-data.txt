@@ -1,0 +1,21 @@
+#Internal package file, do not edit.
+#Thu Feb 21 23:08:45 PST 2019
+2.base=C\:\\Users\\Shish\\Downloads\\activity-lifecycle\\activity-lifecycle\\app\\build\\intermediates\\res\\debug\\resources-debug.ap_
+5.file=C\:\\Users\\Shish\\Downloads\\activity-lifecycle\\activity-lifecycle\\app\\build\\intermediates\\res\\debug\\resources-debug.ap_\\res\\layout\\activity_b.xml
+5.set=ANDROID_RESOURCE
+3.base=C\:\\Users\\Shish\\Downloads\\activity-lifecycle\\activity-lifecycle\\app\\build\\intermediates\\res\\debug\\resources-debug.ap_
+2.set=ANDROID_RESOURCE
+4.base=C\:\\Users\\Shish\\Downloads\\activity-lifecycle\\activity-lifecycle\\app\\build\\intermediates\\res\\debug\\resources-debug.ap_
+count=6
+0.file=C\:\\Users\\Shish\\Downloads\\activity-lifecycle\\activity-lifecycle\\app\\build\\intermediates\\res\\debug\\resources-debug.ap_\\AndroidManifest.xml
+5.base=C\:\\Users\\Shish\\Downloads\\activity-lifecycle\\activity-lifecycle\\app\\build\\intermediates\\res\\debug\\resources-debug.ap_
+4.set=ANDROID_RESOURCE
+1.file=C\:\\Users\\Shish\\Downloads\\activity-lifecycle\\activity-lifecycle\\app\\build\\intermediates\\res\\debug\\resources-debug.ap_\\res\\layout\\activity_a.xml
+1.set=ANDROID_RESOURCE
+2.file=C\:\\Users\\Shish\\Downloads\\activity-lifecycle\\activity-lifecycle\\app\\build\\intermediates\\res\\debug\\resources-debug.ap_\\resources.arsc
+0.base=C\:\\Users\\Shish\\Downloads\\activity-lifecycle\\activity-lifecycle\\app\\build\\intermediates\\res\\debug\\resources-debug.ap_
+3.file=C\:\\Users\\Shish\\Downloads\\activity-lifecycle\\activity-lifecycle\\app\\build\\intermediates\\res\\debug\\resources-debug.ap_\\res\\drawable-xhdpi-v4\\ic_launcher.png
+3.set=ANDROID_RESOURCE
+1.base=C\:\\Users\\Shish\\Downloads\\activity-lifecycle\\activity-lifecycle\\app\\build\\intermediates\\res\\debug\\resources-debug.ap_
+4.file=C\:\\Users\\Shish\\Downloads\\activity-lifecycle\\activity-lifecycle\\app\\build\\intermediates\\res\\debug\\resources-debug.ap_\\res\\layout\\activity_dialog.xml
+0.set=ANDROID_RESOURCE

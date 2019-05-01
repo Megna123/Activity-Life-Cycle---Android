@@ -1,0 +1,4 @@
+#Thu Feb 21 23:08:53 PST 2019
+base.0=C\:\\Users\\Shish\\Downloads\\activity-lifecycle\\activity-lifecycle\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\6
+renamed.0=classes.dex
+file.0=C\:\\Users\\Shish\\Downloads\\activity-lifecycle\\activity-lifecycle\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\6\\classes.dex
